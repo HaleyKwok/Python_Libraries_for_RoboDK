@@ -1,0 +1,703 @@
+﻿Brand ,Model ,Axes ,Reach ,Payload ,Weight ,Repeatability 
+Fanuc ,LR Mate 200iC/5H ,5,704 mm,5 kg,28 kg,0.020 mm
+Kawasaki,RD80N,5,2100 mm,80 kg,555 kg,0.070 mm
+KUKA,KR 1000 L950 titan PA,5,3601 mm ,950 kg,4740 kg,0.200 mm
+KUKA,KR 1000 L1300 titan PA,5,3202 mm,1300 kg,4690 kg,0.200 mm
+KUKA,youBot,5,901 mm,10 kg,52 kg,0.030 mm
+Mitsubishi,RV-2AJ,5,410 mm,2.0 kg,17 kg,0.020 mm
+Yaskawa Motoman,MPL80,5,2061 mm ,80 kg,550 kg,0.070 mm
+Nachi,MC500P,5,3756 mm,500 kg,3000 kg,0.300 mm
+Staubli,RX170HSM,5,1720 mm,60 kg,726 kg,0.040 mm
+OTC Daihen,FD-NV6Ls,7,2006 mm,6 kg,350 kg ,0.080 mm 
+OTC Daihen,FD-V6Ls,7,2006 mm,6 kg,316 kg ,0.080 mm 
+Franka,Emika Panda,7,850 mm,3 kg,18 kg,0.100 mm
+Kinova,Gen3,7,735.1 mm,14 kg,30 kg,0.150 mm
+KUKA,LBR iiwa 7 R800,7,800 mm,7 kg ,24 kg ,0.100 mm
+KUKA,LBR iiwa 7 R800 MF,7,800 mm,7 kg ,24 kg ,0.100 mm
+KUKA,LBR iiwa 14 R820,7,820 mm,14 kg,30 kg,0.100 mm
+Yaskawa Motoman,CSDA10F,7,720 mm,10 kg,60 kg,0.100 mm
+Yaskawa Motoman,SIA10D,7,720 mm,10 kg,60 kg ,0.100 mm
+Yaskawa Motoman,SIA20D,7,1630 mm,50 kg,640 kg ,0.100 mm
+Siasun,SCR3,7,600 mm,3 kg,22 kg,0.020 mm
+Siasun,SCR5 ,7,800 mm,5 kg,34 kg,0.020 mm
+ABB,IRB 14050,7,559 mm,0.5 kg,38 kg,0.020 mm
+ABB,YuMi IRB 14000 Dual-Arm,7,,0.5 kg,,0.020 mm
+Yaskawa Motoman,SDA10F Dual-Arm,7,,10 kg,,0.100 mm
+ABB,CRB 15000,6,950 mm,5 kg,27 kg ,0.050 mm
+ABB,IRB 120-3/0.6,6,580 mm,3 kg ,25 kg ,0.010 mm
+ABB,IRB 140-6/0.8,6,810 mm,6 kg,98 kg,0.030 mm
+ABB,IRB 1100-4/0.58,6,580 mm,4 kg,21 kg,0.010 mm
+ABB,IRB 1100-4/0.475,6,475 mm,4 kg,21 kg,0.010 mm
+ABB,IRB 1200-5/0.9,6,901 mm,5 kg,52 kg,0.020 mm
+ABB,IRB 1200-7/0.7,6,703 mm,7 kg,54 kg,0.020 mm
+ABB,IRB 1300-7/1.4,6,1400 mm,7 kg ,79 kg,0.020 mm
+ABB,IRB 1300-10/1.15,6,1150 mm,10 kg,78 kg,0.023 mm
+ABB,IRB 1520ID,6,1450 mm,5 kg,170 kg,0.050 mm
+ABB,IRB 1600-6/1.2,6,1200 mm,6 kg,250 kg,0.050 mm
+ABB,IRB 1600-6/1.45,6,1450 mm,6 kg,250 kg,0.050 mm
+ABB,IRB 1600-8/1.2,6,1200 mm,9 kg,250 kg,0.050 mm
+ABB,IRB 1600-8/1.45,6,1450 mm,9 kg,250 kg,0.050 mm
+ABB,IRB 1600ID-4/1.5,6,1500 mm,4 kg,250 kg,0.020 mm
+ABB,IRB 1660ID-4/1.55,6,1550 mm,4 kg,260 kg,0.020 mm
+ABB,IRB 2400/10,6,1550 mm,10 kg,380 kg,0.030 mm
+ABB,IRB 2400/16,6,1550 mm,16 kg,380 kg,0.030 mm
+ABB,IRB 2400/L,6,1800 mm,7 kg,380 kg,0.070 mm
+ABB,IRB 2600-12/1.65,6,1650 mm,12 kg,272 kg,0.040 mm
+ABB,IRB 2600-12/1.85,6,1850 mm,12 kg,284 kg,0.040 mm
+ABB,IRB 2600-20/1.65,6,1650 mm,20 kg,272 kg,0.040 mm
+ABB,IRB 2600ID-8/2.00,6,2000 mm,8 kg,276 kg,0.023 mm
+ABB,IRB 2600ID-15/1.85,6,1850 mm,15 kg,276 kg,0.026 mm
+ABB,IRB 4400/45 M94A,6,1960 mm,45 kg,1040 kg,0.190 mm
+ABB,IRB 4400/60,6,1960 mm,60 kg,1040 kg,0.190 mm
+ABB,IRB 4600-20/2.50,6,2500 mm,20 kg,412 kg,0.050 mm
+ABB,IRB 4600-40/2.55,6,2550 mm,40 kg,435 kg,0.060 mm
+ABB,IRB 4600-45/2.05,6,2050 mm,45 kg,425 kg,0.050 mm
+ABB,IRB 4600-60/2.05,6,2050 mm,60 kg,425 kg,0.060 mm
+ABB,IRB 5500-23,6,2200 mm,16 kg,600 kg,0.150 mm
+ABB,IRB 5500-27,6,2200 mm,16 kg,600 kg,0.150 mm
+ABB,IRB 6400 2.4 120,6,2400 mm,120 kg,2230 kg,0.100 mm
+ABB,IRB 6400 2.8 120,6,2800 mm,120 kg,2230 kg,0.100 mm
+ABB,IRB 6400R 2.8 200,6,2800 mm,200 kg,2230 kg,0.100 mm
+ABB,IRB 6400R 25 150,6,2500 mm,200 kg,2230 kg,0.100 mm
+ABB,IRB 6600-175/2.8,6,2800 mm,175 kg,1780 kg,0.100 mm
+ABB,IRB 6600-225/2.55,6,2550 mm,225 kg,1700 kg,0.100 mm
+ABB,IRB 6620-150/2.2,6,2200 mm,150 kg,880 kg,0.030 mm
+ABB,IRB 6640-130/3.2,6,3200 mm,130 kg,1340 kg,0.050 mm
+ABB,IRB 6640-180/2.55,6,2550 mm,180 kg,1310 kg,0.070 mm
+ABB,IRB 6640-185/2.8,6,2800 mm,185 kg,1320 kg,0.050 mm
+ABB,IRB 6640-205/2.75,6,2750 mm,205 kg,1320 kg,0.040 mm
+ABB,IRB 6640-235/2.55,6,2550 mm,235 kg,1310 kg,0.050 mm
+ABB,IRB 6640ID-170/2.75,6,2750 mm,170 kg,1405 kg,0.060 mm
+ABB,IRB 6640ID-200/2.55,6,2550 mm,200 kg,1400 kg,0.070 mm
+ABB,IRB 6650S-90/3.9,6,3900 mm,90 kg,2275 kg,0.140 mm
+ABB,IRB 6650S-125/3.5,6,3500 mm,125 kg,2250 kg,0.140 mm
+ABB,IRB 6650S-200/3.0,6,3000 mm,200 kg,2250 kg,0.140 mm
+ABB,IRB 6660-130/3.1,6,3100 mm,130 kg,1910 kg,0.110 mm
+ABB,IRB 6660-205/1.9,6,1900 mm,205 kg,1730 kg,0.070 mm
+ABB,IRB 6700-150/3.20,6,3200 mm,150 kg,1280 kg,0.060 mm
+ABB,IRB 6700-150/3.20 LeanID,6,3200 mm,150 kg,1280 kg,0.060 mm
+ABB,IRB 6700-155/2.85,6,2850 mm,155 kg,1280 kg,0.050 mm
+ABB,IRB 6700-175/3.05,6,3050 mm,175 kg,1280 kg,0.050 mm
+ABB,IRB 6700-200/2.60,6,2600 mm,200 kg,1280 kg,0.050 mm
+ABB,IRB 6700-205/2.80,6,2800 mm,205 kg,1280 kg,0.050 mm
+ABB,IRB 6700-235/2.65,6,2650 mm,235 kg,1280 kg,0.050 mm
+ABB,IRB 6700-245/3.00,6,3000 mm,245 kg,1280 kg,0.050 mm
+ABB,IRB 6700-245/3.00 SpotPack,6,3000 mm,245 kg,1280 kg,0.050 mm
+ABB,IRB 6700-300/2.70,6,2700 mm,300 kg,1280 kg,0.060 mm
+ABB,IRB 7600-150/3.5,6,3500 mm,150 kg,2450 kg,0.190 mm
+ABB,IRB 7600-325/3.1,6,3100 mm,325 kg,2440 kg,0.100 mm
+ABB,IRB 7600-340/2.8,6,2800 mm,340 kg,2425 kg,0.270 mm
+ABB,IRB 7600-400/2.55,6,2550 mm,400 kg,2400 kg,0.190 mm
+ABB,IRB 7600-500/2.55,6,2550 mm,500 kg,2400 kg,0.080 mm
+ABB,IRB 8700-800/3.50,6,3500 mm,800 kg,4525 kg,0.100 mm
+Adept,Six 300,6,677 mm,3 kg,30 kg,0.030 mm
+Adept,Viper s650,6,653 mm,5 kg,28 kg,0.020 mm
+Adept,Viper s850,6,855 mm,5 kg,29 kg,0.030 mm
+Adept,Viper s1700,6,1717 mm,20 kg,280 kg,0.060 mm
+Agilebot,GBT-P7A,6,721 mm,7 kg,43 kg,0.020 mm
+Annin Robotics,AR2,6,600 mm,1.0 kg,10 kg,0.200 mm
+Annin Robotics,AR3,6,600 mm,1.0 kg,10 kg,0.200 mm
+Annin Robotics,AR4,6,600 mm,1.0 kg,10 kg,0.200 mm
+AUBO,AUBO-i3,6,530 mm,3 kg,15 kg,0.050 mm
+AUBO,AUBO-i5,6,924 mm,5 kg,24 kg,0.050 mm
+AUBO,AUBO-i10,6,1350 mm,10 kg,37 kg,0.050 mm
+Automata,EVA,6,600 mm,1.3 kg,10 kg,0.500 mm
+BORUNTE,BRTIRUS 18020A,6,1850 mm,20 kg,220 kg,0.060 mm
+CLOOS,Romat 310,6,1540 mm,10 kg,245 kg,0.100 mm
+Comau,Aura 170-2.8,6,2790 mm,170 kg,1615 kg,0.100 mm
+Comau,e.DO,6,478 mm,6 kg,11 kg,0.050 mm
+Comau,NJ 370-3.0,6,3020 mm,370 kg,2450 kg,0.150 mm
+Comau,NJ 650-2.7,6,2715 mm,650 kg,2703 kg,0.150 mm
+Comau,NS 12-1.85,6,1850 mm,12 kg,335 kg,0.050 mm
+Comau,NS 16-1.65,6,1650 mm,16 kg,335 kg,0.050 mm
+Comau,Racer 3,6,630 mm,3 kg,30 kg,0.020 mm
+Comau,Racer 5-0.80,6,809.17 mm,5 kg,32 kg,0.030 mm
+Comau,Racer 5-0.80 COBOT,6,809 mm,5 kg,34 kg,0.030 mm
+Comau,Racer 7-1.4,6,1436 mm,7 kg,180 kg,0.050 mm
+Comau,Smart5 NJ4 220-2.7,6,2738 mm,220 kg,1290 kg,0.150 mm
+Comau,Smart5 NJ 16-3.1,6,3108 mm,16 kg,680 kg,0.100 mm
+Comau,Smart5 NJ 40-2.5,6,2503 mm,40 kg,655 kg,0.060 mm
+Comau,Smart5 NJ 60-2.2,6,2503 mm,60 kg,645 kg,0.060 mm
+Comau,Smart5 NJ 110-3.0,6,2980 mm,110 kg,1070 kg,0.070 mm
+Comau,Smart5 NJ 130-2.0,6,2050 mm,130 kg,1050 kg,0.070 mm
+Comau,Smart5 NJ 130-2.6,6,2616 mm,130 kg,1050 kg,0.070 mm
+Comau,Smart5 NJ 165-3.0,6,3000 mm,165 kg,1240 kg,0.100 mm
+Comau,Smart5 NJ 165-3.4 SH,6,3450 mm,165 kg,1430 kg,0.100 mm
+Comau,Smart5 NJ 220-2.7,6,2700 mm,220 kg,1220 kg,0.080 mm
+Comau,Smart5 NJ 290-3.0,6,2997 mm,290 kg,2150 kg,0.150 mm
+Comau,Smart5 NJ 370-2.7,6,2703 mm,370 kg,2100 kg,0.150 mm
+Comau,Smart NJ 40-2.5,6,2503 mm,40 kg,655 kg,0.060 mm
+Comau,Smart NM 16-3.1,6,3108 mm,16 kg,680 kg,0.100 mm
+Comau,Smart NM 45-2.0,6,2240 mm,45 kg,680 kg,0.060 mm
+Comau,Smart SiX 6-1.4,6,1400 mm,6 kg,160 kg,0.050 mm
+CPR,Mover6,6,455 mm,0.2 kg,6 kg,0.100 mm
+CRS,A465,6,711 mm,2.0 kg,31 kg,0.050 mm
+CRS,F3,6,635 mm,3 kg,53 kg,0.050 mm
+Denso ,Cobotta,6,342.5 mm,4 kg,29 kg,0.050 mm
+Denso ,VM-60B1,6,1298 mm,13 kg,82 kg,0.070 mm
+Denso ,VP-6242,6,432 mm,2.0 kg,15 kg,0.020 mm
+Denso ,VS-050,6,605 mm,4 kg,29 kg,0.020 mm
+Denso ,VS-060,6,605 mm,4 kg,30 kg,0.020 mm
+Denso ,VS-068,6,710 mm,7 kg,49 kg,0.020 mm
+Denso ,VS-087,6,875 mm,7 kg,51 kg,0.020 mm
+Denso ,VS-6556,6,565 mm,7 kg,35 kg,0.030 mm
+Denso ,VS-6577G-B,6,854 mm,7 kg,36 kg,0.030 mm
+Dobot,CR3,6,620 mm,3 kg,17 kg,0.020 mm
+Dobot,CR5,6,900 mm,5 kg,23 kg,0.030 mm
+Dobot,CR10,6,1300 mm,10 kg,38 kg,0.030 mm
+Dobot,CR16,6,1000 mm,16 kg,37 kg,0.030 mm
+Doosan,A0509,6,900 mm,5 kg,,0.100 mm
+Doosan,A0912,6,1200 mm,9 kg,,0.100 mm
+Doosan,H2017,6,1700 mm,20 kg,,0.100 mm
+Doosan,H2515,6,1500 mm,15 kg,,0.100 mm
+Doosan,M0609,6,900 mm,6 kg,27 kg,0.100 mm
+Doosan,M0617,6,1700 mm,6 kg,33 kg,0.100 mm
+Doosan,M1013,6,1300 mm,10 kg,33 kg,0.100 mm
+Doosan,M1509,6,900 mm,15 kg,32 kg,0.100 mm
+Efort,ER20,6,1722 mm,20 kg,220 kg,0.060 mm
+Efort,GR680,6,1722 mm,20 kg,220 kg,0.060 mm
+Elibot,EC63,6,624 mm,3 kg,29 kg,0.020 mm
+Elibot,EC66,6,914 mm,6 kg,29 kg,0.030 mm
+Elibot,EC612,6,1200 mm,12 kg,60 kg,0.020 mm
+Epson,C3,6,600 mm,3 kg,27 kg,0.020 mm
+Epson,C4-A601S,6,900 mm,4 kg,27 kg,0.020 mm
+Epson,C4-A901,6,900 mm,4 kg,29 kg,0.030 mm
+Epson,C8,6,711 mm,8 kg,49 kg,0.020 mm
+Epson,C8L,6,901 mm,8 kg,49 kg,0.030 mm
+Epson,N2-A450,6,450 mm,3 kg,19 kg,0.020 mm
+Epson,N6-A850,6,1010 mm,6 kg,64 kg,0.030 mm
+Epson,N6-A1000,6,1010 mm,6 kg,69 kg,0.040 mm
+Epson,ProSix PS3,6,949 mm,4 kg,45 kg,0.050 mm
+Epson,VT6,6,920 mm,6 kg,40 kg,0.100 mm
+ESI,C7,6,740 mm,7 kg,50 kg,0.100 mm
+ESI,C15,6,1382 mm,15 kg,85 kg,0.100 mm
+Estun,ER8-1450-H,6,1450 mm,8 kg,170 kg,0.080 mm
+Estun,ER16,6,1590 mm,16 kg,170 kg,0.100 mm
+Estun,ER20-2000-HI,6,2000 mm,10 kg,248 kg,0.070 mm
+Fanuc,ARC Mate 100iD,6,1441 mm,12 kg,250 kg,0.080 mm
+Fanuc,ARC Mate 120iB,6,1667 mm,20 kg,220 kg,0.080 mm
+Fanuc,ARC Mate 120iB/10L,6,1885 mm,10 kg,225 kg,0.100 mm
+Fanuc,ARC Mate 120iC,6,1811 mm,3 kg,250 kg,0.080 mm
+Fanuc,CR-7iA/L,6,911 mm,7 kg,55 kg,0.030 mm
+Fanuc,CR-35iA,6,1813 mm,35 kg,990 kg,0.030 mm
+Fanuc,CRX-10iA,6,1249 mm,10 kg,40 kg,0.050 mm
+Fanuc,CRX-10iA/L,6,1418 mm,10 kg,40 kg,0.050 mm
+Fanuc,LR Mate 200iC,6,704 mm,5 kg,28 kg,0.020 mm
+Fanuc,LR Mate 200iD,6,717 mm,7 kg,25 kg,0.020 mm
+Fanuc,LR Mate 200iD/4S,6,550 mm,7 kg,20 kg,0.010 mm
+Fanuc,LR Mate 200iD/7L,6,911 mm,7 kg,27 kg,0.010 mm
+Fanuc,LR Mate 200iD/ER-4iA,6,550 mm,7 kg,20 kg,0.010 mm
+Fanuc,M-6iB,6,1373 mm,6 kg,138 kg,0.080 mm
+Fanuc,M-10iA,6,1420 mm,10 kg,130 kg,0.080 mm
+Fanuc,M-10iA/6L,6,1633 mm,6 kg,135 kg,0.080 mm
+Fanuc,M-10iA/7L,6,1633 mm,7 kg,135 kg,0.080 mm
+Fanuc,M-10iA/8L,6,2028 mm,8 kg,150 kg,0.040 mm
+Fanuc,M-10iA/10S,6,1098 mm,10 kg,130 kg,0.080 mm
+Fanuc,M-10iD/12,6,1441 mm,12 kg,145 kg,0.020 mm
+Fanuc,M-16iB/20,6,1667 mm,20 kg,270 kg,0.080 mm
+Fanuc,M-20iA,6,1811 mm,20 kg,250 kg,0.080 mm
+Fanuc,M-20iA/10L,6,2009 mm,10 kg,250 kg,0.100 mm
+Fanuc,M-20iA/12L,6,2009 mm,12 kg,250 kg,0.100 mm
+Fanuc,M-20iA/35M,6,1813 mm,35 kg,252 kg,0.040 mm
+Fanuc,M-20iB/25,6,1853 mm,25 kg,210 kg,0.050 mm
+Fanuc,M-20iB/35S,6,1445 mm,35 kg,205 kg,0.020 mm
+Fanuc,M-20iD/12L,6,2272 mm,12 kg,250 kg,0.030 mm
+Fanuc,M-20iD/25,6,1831 mm,25 kg,250 kg,0.020 mm
+Fanuc,M-710iC/12L,6,3123 mm,12 kg,540 kg,0.150 mm
+Fanuc,M-710iC/20L,6,3110 mm,20 kg,540 kg,0.150 mm
+Fanuc,M-710iC/20M,6,2582 mm,20 kg,530 kg,0.060 mm
+Fanuc,M-710iC/45M,6,2606 mm,45 kg,570 kg,0.060 mm
+Fanuc,M-710iC/50,6,1360 mm,50 kg,545 kg,0.070 mm
+Fanuc,M-710iC/50S,6,1359 mm,50 kg,545 kg,0.020 mm
+Fanuc,M-710iC/70,6,1360 mm,70 kg,545 kg,0.070 mm
+Fanuc,M-800iA/60,6,2040 mm,60 kg,820 kg,0.030 mm
+Fanuc,M-900iA/350,6,2655 mm,350 kg,1540 kg,0.100 mm
+Fanuc,M-900iB/260L,6,3100 mm,260 kg,1800 kg,0.300 mm
+Fanuc,M-900iB/280,6,2655 mm,360 kg,1540 kg,0.100 mm
+Fanuc,M-900iB/360,6,2655 mm,360 kg,1540 kg,0.100 mm
+Fanuc,M-900iB/400L,6,3704 mm,400 kg,3150 kg,0.500 mm
+Fanuc,M-900iB/700,6,2832 mm,700 kg,2800 kg,0.300 mm
+Fanuc,M-2000iA/900L,6,4683 mm,900 kg,9600 kg,0.180 mm
+Fanuc,M-2000iA/1700L,6,4683 mm,1700 kg,12500 kg,0.270 mm
+Fanuc,M-2000iC/210R,6,2655 mm,210 kg,1370 kg,0.050 mm
+Fanuc,P-50iB/10L,6,1800 mm,10 kg,331 kg,0.200 mm
+Fanuc,P-200 LA OL HB,6,2779 mm,15 kg,523 kg,0.500 mm
+Fanuc,P-200 LA OR HB,6,2779 mm,15 kg,523 kg,0.500 mm
+Fanuc,P-250iB RH,6,2800 mm,15 kg,530 kg,0.200 mm
+Fanuc,R-1000iA/80F,6,2230 mm,80 kg,620 kg,0.200 mm
+Fanuc,R-1000iA/100F,6,2230 mm,100 kg,665 kg,0.030 mm
+Fanuc,R-2000iA/165F,6,2650 mm,200 kg,1240 kg,0.300 mm
+Fanuc,R-2000iA/200F,6,2650 mm,200 kg,1240 kg,0.300 mm
+Fanuc,R-2000iA/200FO,6,2650 mm,200 kg,1310 kg,0.300 mm
+Fanuc,R-2000iA/210F,6,2650 mm,210 kg,1270 kg,0.300 mm
+Fanuc,R-2000iB/100P,6,3500 mm,100 kg,1570 kg,0.300 mm
+Fanuc,R-2000iB/125L,6,3005 mm,125 kg,1190 kg,0.300 mm
+Fanuc,R-2000iB/165F,6,2655 mm,165 kg,1170 kg,0.200 mm
+Fanuc,R-2000iB/170CF,6,1520 mm,170 kg,800 kg,0.150 mm
+Fanuc,R-2000iB/175L,6,2852 mm,175 kg,1260 kg,0.300 mm
+Fanuc,R-2000iB/210F,6,2655 mm,210 kg,1240 kg,0.300 mm
+Fanuc,R-2000iB/250F,6,2655 mm,250 kg,1270 kg,0.300 mm
+Fanuc,R-2000iC/125L,6,3100 mm,125 kg,1115 kg,0.050 mm
+Fanuc,R-2000iC/165F,6,2655 mm,165 kg,1170 kg,0.200 mm
+Fanuc,R-2000iC/210F,6,2655 mm,210 kg,1370 kg,0.050 mm
+Fanuc,R-2000iC/210L,6,3100 mm,210 kg,1370 kg,0.050 mm
+Fanuc,R-2000iC/270F,6,2655 mm,270 kg,1370 kg,0.050 mm
+Fanuc,S-420iW,6,2850 mm,155 kg,1600 kg,0.400 mm
+Fanuc,S-430iL/80,6,3002 mm,80 kg,1300 kg,0.300 mm
+Fanuc,S-430iL/125,6,3002 mm,125 kg,1300 kg,0.300 mm
+Fanuc,S-430iW,6,2643 mm,135 kg,1300 kg,0.300 mm
+Foxbot,A1200,6,1200 mm,10 kg,108 kg,0.030 mm
+Foxbot,A1700,6,1717 mm,20 kg,250 kg,0.050 mm
+Fruitcore ,HORST 600,6,584 mm,2.0 kg,30 kg,0.050 mm
+GMF,S-420,6,2413 mm,120 kg,1500 kg,0.500 mm
+GSK,RB03A1,6,561 mm,3 kg,180 kg,0.050 mm
+GSK,RB06L,6,2000 mm,6 kg,305 kg,0.050 mm
+GSK,RB08,6,1389 mm,8 kg,180 kg,0.050 mm
+GSK,RB08A1,6,1369 mm,8 kg,200 kg,0.050 mm
+GSK,RB10,6,1550 mm,8 kg,180 kg,0.050 mm
+GSK,RB15L,6,1810 mm,15 kg,300 kg,0.050 mm
+GSK,RB20,6,1595 mm,20 kg,290 kg,0.050 mm
+GSK,RB50,6,1950 mm,50 kg,300 kg,0.050 mm
+GSK,RB165,6,2463 mm,165 kg,1400 kg,0.200 mm
+Han's,E03,6,590 mm,3 kg,18 kg,0.030 mm
+Han's,E05 ,6,800 mm,5 kg,25 kg,0.030 mm
+Han's,E05-L,6,950 mm,4 kg,26 kg,0.030 mm
+Han's,E10 ,6,1000 mm ,10 kg,43 kg,0.050 mm
+Han's,E10-L,6,1300 mm,8 kg,45 kg,0.050 mm
+Han's,E15 ,6,1300 mm,15 kg,60 kg,0.100 mm
+Hanwha,HCR-3,6,530 mm,3 kg ,13 kg,0.100 mm
+Hanwha,HCR-5 ,6,915 mm,5 kg ,20 kg ,0.100 mm
+Hanwha,HCR-12,6,1300 mm,12 kg ,51 kg ,0.100 mm
+HIWIN,RA605-710-GB,6,710 mm,5 kg,40 kg,0.020 mm
+HIWIN,RA610-1355-GA,6,1355 mm,12 kg ,143 kg,0.050 mm
+HIWIN,RA610-1476-GA,6,1476 mm,10 kg,147 kg,0.050 mm
+HIWIN,RA610-1672-GA,6,1672 mm,10 kg,150 kg,0.060 mm
+HIWIN,RA610-1869-GA,6,1869 mm,7 kg,152 kg,0.060 mm
+HIWIN,RT605-710-GB,6,710 mm,5 kg,40 kg,0.030 mm
+HIWIN,RT605-909-GB,6,909 mm,5 kg,45 kg,0.040 mm
+HSR,HSR-BR609,6,1042 mm,9 kg,48 kg,0.050 mm
+HSR,HSR-BR616,6,1599.6 mm,16 kg,48 kg,0.050 mm
+Hyundai Robotics,HA006B,6,1424.9 mm,6 kg,145 kg,0.050 mm
+Hyundai Robotics,HA006L,6,1994 mm,6 kg,224 kg,0.080 mm
+Hyundai Robotics,HH012,6,1425 mm,12 kg,145 kg,0.030 mm
+Hyundai Robotics,HH020,6,1742 mm,20 kg,225 kg,0.080 mm
+Hyundai Robotics,HH020L,6,2239 mm,20 kg,645 kg,0.080 mm
+Hyundai Robotics,HH050,6,2239 mm,50 kg,645 kg,0.100 mm
+Hyundai Robotics,YL012,6,1305 mm ,12 kg ,,0.100 mm
+Hyundai Robotics,YL015,6,963 mm,15 kg,42 kg ,0.100 mm
+Hyundai Robotics,IIMT-CA-05,6,900 mm,5 kg ,20 kg ,0.030 mm
+Hyundai Robotics,IIMT-CR-03,6,600 mm,3 kg,13 kg,0.030 mm
+Hyundai Robotics,IIMT-CR-10,6,1300 mm,10 kg,32 kg,0.050 mm
+Hyundai Robotics,IIMT-CR-16,6,1000 mm,16 kg,31 kg,0.050 mm
+Jaka ,MiniCobo,6,576 mm,1.0 kg ,9 kg ,0.100 mm
+Jaka ,Zu3 ,6,498 mm,3 kg ,14 kg ,0.030 mm
+Jaka ,Zu5  ,6,954 mm,5 kg ,12 kg ,0.030 mm
+Jaka ,Zu7 ,6,814 mm,7 kg,22 kg,0.030 mm
+Jaka ,Zu7 V2.6,6,954 mm,5 kg,23 kg,0.030 mm
+Jaka ,Zu7 V2.7,6,950 mm,5 kg,23 kg,0.030 mm
+Jaka ,Zu12,6,1327 mm,12 kg,41 kg,0.030 mm
+Jaka ,Zu18,6,1073 mm,18 kg,35 kg,0.030 mm
+Jaka ,Zu-TM,6,1400 mm,12 kg,41 kg,0.030 mm
+Kawasaki,BA006L,6,2036 mm,6 kg,160 kg,0.080 mm
+Kawasaki,BT200L,6,2597 mm,200 kg,930 kg,0.200 mm
+Kawasaki,BX100L,6,2597 mm,100 kg,740 kg,0.060 mm
+Kawasaki,BX100N,6,2200 mm,100 kg,740 kg,0.200 mm
+Kawasaki,BX100S,6,1634 mm,100 kg,720 kg,0.060 mm
+Kawasaki,BX130X,6,2991 mm,130 kg,920 kg,0.060 mm
+Kawasaki,BX165L,6,2597 mm,165 kg,890 kg,0.060 mm
+Kawasaki,BX200L,6,2597 mm,200 kg,930 kg,0.200 mm
+Kawasaki,CX165L,6,2597 mm,165 kg,890 kg,0.060 mm
+Kawasaki,CX210L,6,2699 mm,210 kg,870 kg,0.200 mm
+Kawasaki,FS03N,6,620 mm,3 kg,20 kg,0.050 mm
+Kawasaki,FS06L,6,1551 mm,6 kg,170 kg,0.100 mm
+Kawasaki,FS10E,6,1451 mm,10 kg,170 kg,0.100 mm
+Kawasaki,FS10L,6,1852 mm,10 kg,280 kg,0.100 mm
+Kawasaki,FS10X,6,2952 mm,10 kg,580 kg,0.230 mm
+Kawasaki,FS20C,6,1303 mm,20 kg,275 kg,0.100 mm
+Kawasaki,FS20N,6,1653 mm,20 kg,280 kg,0.100 mm
+Kawasaki,FS30L,6,2104 mm,30 kg,555 kg,0.150 mm
+Kawasaki,FS30N,6,1676 mm,30 kg,575 kg,0.150 mm
+Kawasaki,FS45N,6,1805 mm,45 kg,580 kg,0.150 mm
+Kawasaki,KF263,6,2665 mm,12 kg,530 kg,0.500 mm
+Kawasaki,KJ264J,6,2640 mm,15 kg,540 kg,0.500 mm
+Kawasaki,MC04N,6,505.8 mm,4 kg,25 kg,0.050 mm
+Kawasaki,MX350L,6,3360 mm,350 kg,2800 kg,0.500 mm
+Kawasaki,MX420L,6,3010 mm,420 kg,2800 kg,0.500 mm
+Kawasaki,MX500N,6,2540 mm,500 kg,2750 kg,0.100 mm
+Kawasaki,MX700N,6,2860 mm,700 kg,2750 kg,0.500 mm
+Kawasaki,RS03N,6,620 mm,3 kg,20 kg,0.020 mm
+Kawasaki,RS005L,6,903 mm,5 kg,37 kg,0.030 mm
+Kawasaki,RS05N,6,705 mm,5 kg,34 kg,0.020 mm
+Kawasaki,RS006L,6,1650 mm,6 kg,150 kg,0.050 mm
+Kawasaki,RS007L,6,930 mm,7 kg,36 kg,0.030 mm
+Kawasaki,RS007N,6,730 mm,7 kg,35 kg,0.020 mm
+Kawasaki,RS010L,6,1925 mm,10 kg,230 kg,0.060 mm
+Kawasaki,RS10,6,1500 mm,10 kg,230 kg,0.060 mm
+Kawasaki,RS013N-A,6,1460 mm,13 kg,170 kg,0.030 mm
+Kawasaki,RS015X,6,3150 mm,15 kg,545 kg,0.060 mm
+Kawasaki,RS20N,6,1725 mm,20 kg,230 kg,0.040 mm
+Kawasaki,RS50N,6,2100 mm,50 kg,555 kg,0.070 mm
+Kawasaki,RS80N,6,2100 mm,80 kg,555 kg,0.070 mm
+OTC Daihen,AX-V4,6,1410 mm,4 kg,160 kg,0.080 mm
+OTC Daihen,AX-V6L,6,2006 mm,6 kg,250 kg,0.080 mm
+OTC Daihen,FD-B4,6,1411 mm,4 kg,154 kg,0.080 mm
+OTC Daihen,FD-B4L,6,1411 mm,4 kg,154 kg,0.080 mm
+OTC Daihen,FD-V6,6,1402 mm,6 kg,144 kg,0.080 mm
+OTC Daihen,FD-V6L,6,2006 mm,6 kg,273 kg,0.080 mm
+OTC Daihen,FD-V8,6,1437 mm,8 kg,140 kg,0.080 mm
+OTC Daihen,FD-V166,6,2654 mm,166 kg,1010 kg,0.100 mm
+Kinova,Gen3 6DOF,6,735.1 mm,4 kg,7 kg,0.150 mm
+Kinova,Gen3 6DOF NoV,6,735.1 mm,4 kg,7 kg,0.150 mm
+Kinova,Gen3 lite,6,735.1 mm,4 kg,7 kg,0.150 mm
+Leantec,LRA596-4-6A-R,6,596 mm,4 kg,32 kg,0.020 mm
+Leantec,LRA596-4-6H-R,6,596 mm,4 kg,32 kg,0.020 mm
+Leantec,LRA707-7-6A-R,6,707 mm,7 kg,50 kg,0.020 mm
+Leantec,LRA707-7-6H-R,6,707 mm,7 kg,50 kg,0.020 mm
+Leantec,LRA906-7-6A-R,6,906 mm,7 kg,52 kg,0.030 mm
+Leantec,LRA906-7-6H-R,6,906 mm,7 kg,52 kg,0.030 mm
+Leantec,LRA917-6-6A-Y,6,917 mm,6 kg,60 kg,0.030 mm
+Leantec,LRA1468-10-6A-C,6,1468 mm,10 kg,161 kg,0.080 mm
+Leantec,LRA1598-10-6A-C,6,1598 mm,10 kg,268 kg,0.080 mm
+Leantec,LRA1717-20-6A-C,6,1717 mm,20 kg,268 kg,0.080 mm
+Leantec,LRA1758-5-6A-C,6,1758 mm,5 kg,270 kg,0.080 mm
+Leantec,LRA2000-8-6A-C,6,2000 mm,8 kg,270 kg,0.080 mm
+Leantec,LRA2100-60-6A-C,6,2100 mm,60 kg,780 kg,0.200 mm
+Mecademic,Meca500 R3,6,330 mm,0.5 kg,5 kg,0.005 mm
+Mitsubishi,RV-2FR,6,504 mm,2.0 kg,19 kg,0.020 mm
+Mitsubishi,RV-2FRL,6,649 mm,2.0 kg,21 kg,0.020 mm
+Mitsubishi,RV-3S,6,642 mm,4 kg,33 kg,0.020 mm
+Mitsubishi,RV-4FL,6,648.7 mm,4 kg,41 kg,0.020 mm
+Mitsubishi,RV-4FRL,6,649 mm,4 kg,41 kg,0.020 mm
+Mitsubishi,RV-4FRL-MC,6,649 mm,4 kg,41 kg,0.020 mm
+Mitsubishi,RV-4FRL-SH,6,649 mm,4 kg,41 kg,0.020 mm
+Mitsubishi,RV-4FR-MC,6,515 mm,4 kg,39 kg,0.020 mm
+Mitsubishi,RV-4FR-SH,6,515 mm,4 kg,39 kg,0.020 mm
+Mitsubishi,RV-5AS-D,6,900 mm,5 kg,58 kg,0.020 mm
+Mitsubishi,RV-6SL,6,902 mm,5 kg,60 kg,0.200 mm
+Mitsubishi,RV-7FL,6,908 mm,7 kg,67 kg,0.020 mm
+Mitsubishi,RV-7FR,6,713 mm,7 kg,65 kg,0.020 mm
+Mitsubishi,RV-7FRL,6,908 mm,7 kg,67 kg,0.020 mm
+Mitsubishi,RV-7FRLL,6,1503 mm,7 kg,130 kg,0.060 mm
+Mitsubishi,RV-7FRLL-MC,6,1503 mm,7 kg,130 kg,0.060 mm
+Mitsubishi,RV-7FRL-MC,6,908 mm,7 kg,67 kg,0.020 mm
+Mitsubishi,RV-7FRL-SH,6,908 mm,7 kg,67 kg,0.020 mm
+Mitsubishi,RV-7FR-MC,6,713 mm,7 kg,65 kg,0.020 mm
+Mitsubishi,RV-7FR-SH,6,713 mm,7 kg,65 kg,0.020 mm
+Mitsubishi,RV-8CRL,6,931 mm,7 kg,41 kg,0.020 mm
+Mitsubishi,RV-12S,6,936 mm,12 kg,93 kg,0.050 mm
+Mitsubishi,RV-13FL,6,1388 mm,13 kg,120 kg,0.050 mm
+Mitsubishi,RV-13FR,6,1094 mm,13 kg,120 kg,0.050 mm
+Mitsubishi,RV-13FRL,6,1388 mm,13 kg,120 kg,0.050 mm
+Mitsubishi,RV-13FRL-MC,6,1388 mm,13 kg,120 kg,0.050 mm
+Mitsubishi,RV-13FRL-SH,6,1388 mm,13 kg,120 kg,0.050 mm
+Mitsubishi,RV-13FRL-MC,6,1388 mm,13 kg,120 kg,0.050 mm
+Mitsubishi,RV-13FRL-SH,6,1388 mm,13 kg,120 kg,0.050 mm
+Nachi,MC10L-01,6,2019 mm,10 kg,225 kg,0.060 mm
+Nachi,MC20,6,1722 mm,20 kg,220 kg,0.060 mm
+Nachi,MC50,6,2050 mm,50 kg,640 kg,0.070 mm
+Nachi,MZ01-01,6,350 mm,1.0 kg,10 kg,0.020 mm
+Nachi,MZ03EL,6,1102 mm,4 kg,39 kg,0.030 mm
+Nachi,MZ04-01,6,541 mm,4 kg,26 kg,0.020 mm
+Nachi,MZ04E-01,6,541 mm,4 kg,25 kg ,0.020 mm
+Nachi,MZ07,6,723 mm,7 kg,30 kg,0.020 mm
+Nachi,MZ07L,6,912 mm,7 kg,32 kg,0.030 mm
+Nachi,MZ12-01,6,1454 mm,12 kg,150 kg,0.040 mm
+Nachi,MZ25,6,1882 mm,25 kg,250 kg,0.050 mm
+Nachi,SC15F-02,6,1587 mm,15 kg,225 kg,0.060 mm
+Nachi,SRA100B-01,6,2071 mm,100 kg,690 kg,0.100 mm
+Nachi,SRA120EL,6,3099 mm,120 kg,985 kg,0.150 mm
+Nachi,SRA166,6,2654 mm,166 kg,960 kg,0.150 mm
+Nachi,SRA240,6,2674 mm,240 kg,990 kg,0.200 mm
+Nachi,SRA250,6,2792 mm,250 kg,1030 kg,0.200 mm
+Nachi,ST166F,6,2654 mm,166 kg,1070 kg,0.200 mm
+Niryo,One,6,430 mm,1.0 kg,10 kg,0.100 mm
+Omron,TM5-700,6,700 mm,6 kg,25 kg,0.100 mm
+Omron,TM5-900,6,900 mm,4 kg,30 kg,0.100 mm
+Omron,TM5X-700,6,700 mm,6 kg,25 kg,0.100 mm
+Omron,TM5X-900,6,900 mm,4 kg,30 kg,0.100 mm
+Omron,TM12,6,1300 mm,12 kg,33 kg,0.100 mm
+Omron,TM12X,6,1300 mm,12 kg,33 kg,0.100 mm
+Omron,TM14,6,1100 mm,14 kg,33 kg,0.100 mm
+Omron,TM14X,6,1100 mm,14 kg,33 kg,0.100 mm
+Panasonic,TA-1000,6,1068 mm,6 kg,145 kg,0.100 mm
+Panasonic,TA-1400,6,1374 mm ,6 kg ,161 kg ,0.100 mm
+Panasonic,TA-1600,6,1598 mm,8 kg,203 kg,0.100 mm
+Panasonic,TM-1400,6,1437 mm,6 kg ,170 kg ,0.080 mm
+Precise,PAVP6,6,432 mm,2.0 kg,28 kg,0.020 mm
+PUMA,560,6,864 mm,3 kg,55 kg,0.100 mm
+QJAR,QJR20-1600,6,1671 mm,20 kg,270 kg,0.100 mm
+Rainbow Robotics,RB3-1200,6,1200 mm,3 kg,40 kg,0.100 mm
+Rainbow Robotics,RB5-850,6,850 mm,5 kg,21 kg,0.100 mm
+Rainbow Robotics,RB5-850A,6,850 mm,5 kg,21 kg,0.100 mm
+Rainbow Robotics,RB10-1300,6,1300 mm,10 kg,32 kg,0.100 mm
+Reis,RV10-6,6,1080 mm,6 kg,235 kg,0.050 mm
+Reis,RV130-60,6,2800 mm,60 kg,1340 kg,0.150 mm
+RoboDK,RDK-1100,6,1100 mm,10 kg ,,
+RoboDK,RDK-1440,6,1440 mm,10 kg ,,
+Robostar,RA004,6,510 mm,4 kg,27 kg,0.020 mm
+Robostar,RA007,6,930 mm,7 kg,38 kg,0.030 mm
+Robostar,RA012,6,930 mm,12 kg,27 kg,0.060 mm
+Rokae,XB4,6,596 mm,4 kg,32 kg,0.020 mm
+Rokae,XB6,6,716.8 mm,6 kg,40 kg,0.020 mm
+Rokae,XB7,6,707 mm,7 kg,50 kg,0.020 mm
+Rokae,XB7L,6,906 mm,7 kg,52 kg,0.030 mm
+Rokae,XB7Lh,6,906 mm,7 kg,52 kg,0.030 mm
+Rokae,XB7Ls,6,906 mm,7 kg,52 kg,0.030 mm
+Rokae,XB7s,6,707 mm,7 kg,50 kg,0.020 mm
+Rokae,XB7XL,6,1206 mm,7 kg,76 kg,0.050 mm
+Siasun,GCR5-910,6,912 mm,5 kg,,0.050 mm
+Siasun,GCR10-1300,6,1300 mm,10 kg,38 kg,0.050 mm
+Siasun,GCR14-1400,6,1400 mm,14 kg,50 kg,0.050 mm
+Siasun,GCR20-1100,6,1100 mm,20 kg,50 kg,0.050 mm
+Siasun,SR20A,6,1745 mm,20 kg,500 kg,0.100 mm
+Siasun,SR80B,6,1379.5 mm,80 kg,500 kg,0.100 mm
+Staubli,RX60B,6,600 mm,4 kg,51 kg,0.020 mm
+Staubli,RX60BL,6,800 mm,3 kg,51 kg,0.020 mm
+Staubli,RX90B,6,900 mm,6 kg,111 kg,0.020 mm
+Staubli,RX90BL,6,1100 mm,6 kg,113 kg,0.025 mm
+Staubli,RX130B,6,1250 mm,12 kg,245 kg,0.050 mm
+Staubli,RX130XL,6,2100 mm,6 kg,245 kg,0.050 mm
+Staubli,RX160,6,1600 mm,20 kg,248 kg,0.050 mm
+Staubli,RX160L,6,1900 mm,14 kg,250 kg,0.050 mm
+Staubli,RX170,6,1700 mm,30 kg,721 kg,0.040 mm
+Staubli,RX170HP,6,1700 mm,60 kg,726 kg,0.040 mm
+Staubli,RX170L,6,2000 mm,20 kg,726 kg,0.050 mm
+Staubli,RX260,6,2621 mm,130 kg,1900 kg,0.070 mm
+Staubli,RX260L,6,3007 mm,130 kg,1900 kg,0.070 mm
+Staubli,RX270,6,2710 mm,220 kg,2000 kg,0.090 mm
+Staubli,TX2-40,6,515 mm,1.7 kg,29 kg,0.020 mm
+Staubli,TX2-60,6,670 mm,4 kg,52 kg,0.020 mm
+Staubli,TX2-60L,6,920 mm,2.0 kg,53 kg,0.030 mm
+Staubli,TX2-90,6,1000 mm,6 kg,114 kg,0.030 mm
+Staubli,TX2-90L,6,1200 mm,5 kg,117 kg,0.035 mm
+Staubli,TX2-90XL,6,1450 mm,4 kg,119 kg,0.040 mm
+Staubli,TX2-140,6,1510 mm,40 kg,250 kg,0.050 mm
+Staubli,TX2-160L,6,2010 mm,14 kg,265 kg,0.050 mm
+Staubli,TX40,6,450 mm,1.7 kg,27 kg,0.020 mm
+Staubli,TX60,6,600 mm,4 kg,51 kg,0.020 mm
+Staubli,TX60L,6,850 mm,2.0 kg,53 kg,0.030 mm
+Staubli,TX90,6,900 mm,7 kg,111 kg,0.030 mm
+Staubli,TX90L,6,1100 mm,6 kg,114 kg,0.035 mm
+Staubli,TX90XL,6,1350 mm,5 kg,116 kg,0.040 mm
+Staubli,TX200,6,2000 mm,100 kg,1000 kg,0.060 mm
+Staubli,TX200L,6,2400 mm,60 kg,1020 kg,0.100 mm
+Staubli,TX200PV,6,2000 mm,100 kg,1000 kg,0.060 mm
+Staubli,TX200PVL,6,2400 mm,60 kg,1020 kg,0.100 mm
+Techman Robot,TM5-700,6,700 mm,6 kg,25 kg,0.100 mm
+Techman Robot,TM5-900,6,900 mm,4 kg,30 kg ,0.100 mm
+Techman Robot,TM5X-700,6,700 mm,6 kg,25 kg,0.100 mm
+Techman Robot,TM5X-900,6,900 mm,4 kg,30 kg ,0.100 mm
+Techman Robot,TM12,6,1300 mm,12 kg,33 kg,0.100 mm
+Techman Robot,TM12X,6,1300 mm,12 kg,33 kg,0.100 mm
+Techman Robot,TM14,6,1100 mm,14 kg,33 kg,0.100 mm
+Techman Robot,TM14X,6,1100 mm,14 kg,33 kg,0.100 mm
+Toshiba,TV800,6,892 mm,3 kg,20 kg,0.020 mm
+Toshiba,TVM900,6,1142 mm,20 kg,655 kg,0.050 mm
+Toshiba,TVM1200,6,1432 mm,5 kg,125 kg,0.050 mm
+Toshiba,TVM1500,6,1726 mm,5 kg,131 kg,0.050 mm
+uFactory,Lite6,6,440 mm,1.0 kg,9 kg,0.200 mm
+uFactory,xArm6,6,632 mm,5 kg,10 kg,0.100 mm
+Universal Robots,UR3,6,500 mm,3 kg,11 kg,0.100 mm
+Universal Robots,UR3e,6,500 mm,3 kg,11 kg,0.030 mm
+Universal Robots,UR5,6,850 mm,5 kg,18 kg,0.100 mm
+Universal Robots,UR5e,6,850 mm,5 kg,18 kg,0.030 mm
+Universal Robots,UR10,6,1300 mm,10 kg,29 kg,0.100 mm
+Universal Robots,UR10e,6,1300 mm,10 kg ,29 kg ,0.050 mm
+Universal Robots,UR16e,6,900 mm ,16 kg ,33 lg ,0.050 mm 
+KUKA,KR 3,6,635 mm,3 kg,53 kg,0.050 mm
+KUKA,KR 3 R540,6,541 mm,3 kg,26 kg,0.020 mm
+KUKA,KR 4 R600,6,601 mm,5 kg,24 kg,0.015 mm
+KUKA,KR 5 arc,6,1411 mm,5 kg,127 kg,0.040 mm
+KUKA,KR 5 arc HW,6,1423 mm,5 kg,126 kg,0.040 mm
+KUKA,KR 5 sixx R650,6,653 mm,5 kg,28 kg,0.020 mm
+KUKA,KR 6 2,6,1611 mm,6 kg,235 kg,0.050 mm
+KUKA,KR 6 2 KS,6,1801 mm,6 kg,240 kg,0.100 mm
+KUKA,KR 6 arc,6,1911 mm,6 kg,235 kg,0.100 mm
+KUKA,KR 6 R700-2,6,726 mm,7 kg,53 kg,0.020 mm
+KUKA,KR 6 R700 sixx,6,706.7 mm,6 kg,50 kg,0.030 mm
+KUKA,KR 6 R900-2,6,901 mm,7 kg,55 kg,0.020 mm
+KUKA,KR 6 R900 sixx,6,901 mm,6 kg,52 kg,0.030 mm
+KUKA,KR 6 R1820 Cybertech,6,1820 mm,6 kg,168 kg,0.040 mm
+KUKA,KR6 R1840-2,6,1840 mm,6 kg,162 kg,0.040 mm
+KUKA,KR 8 R1420 arc HW,6,1421 mm,8 kg,179 kg,0.040 mm
+KUKA,KR 8 R1620 HP,6,1620 mm,6 kg,165 kg,0.040 mm
+KUKA,KR 8 R2010,6,2013 mm,16 kg,255 kg,0.040 mm
+KUKA,KR 8 R2100-2 Arc HW,6,2101 mm,9 kg,260 kg,0.040 mm
+KUKA,KR 10 R900-2,6,901 mm,10 kg,52 kg,0.030 mm
+KUKA,KR 10 R900 sixx,6,901 mm,10 kg,52 kg,0.030 mm
+KUKA,KR 10 R1100-2,6,1101 mm,11 kg,57 kg,0.020 mm
+KUKA,KR 10 R1100 sixx,6,1101 mm,10 kg,54 kg,0.030 mm
+KUKA,KR 10 R1420,6,1420 mm,10 kg,160 kg,0.040 mm
+KUKA,KR 16 2,6,1611 mm,16 kg,235 kg,0.050 mm
+KUKA,KR 16 2 KS,6,1801 mm,16 kg,245 kg,0.100 mm
+KUKA,KR 16 3,6,1611 mm,16 kg,235 kg,0.050 mm
+KUKA,KR 16 arc HW,6,1636 mm,16 kg,245 kg,0.050 mm
+KUKA,KR 16 AV300,6,1910 mm,16 kg,235 kg,0.050 mm
+KUKA,KR 16 L6,6,1911 mm,6 kg,240 kg,0.050 mm
+KUKA,KR 16 L6 2 KS,6,1801 mm,16 kg,245 kg,0.100 mm
+KUKA,KR 16 L8 arc HW,6,2015 mm,8 kg,238 kg,0.050 mm
+KUKA,KR 16 R1610,6,1612 mm,16 kg,245 kg,0.040 mm
+KUKA,KR 16 R2010,6,2013 mm,16 kg,255 kg,0.040 mm
+KUKA,KR 20 R1810,6,1810 mm,20 kg,250 kg,0.040 mm
+KUKA,KR 20 R3100,6,3101 mm,20 kg,559 kg,0.050 mm
+KUKA,KR 22 R1610,6,1612 mm,22 kg,245 kg,0.040 mm
+KUKA,KR 30 4 KS,6,2233 mm,30 kg,600 kg,0.060 mm
+KUKA,KR 30 HA,6,2033 mm,30 kg,665 kg,0.050 mm
+KUKA,KR 30 L16,6,3102 mm,16 kg,700 kg,0.070 mm
+KUKA,KR 30 R2100,6,2100 mm,30 kg,533 kg,0.050 mm
+KUKA,KR 50 R2100,6,2101 mm,61 kg,665 kg,0.050 mm
+KUKA,KR 50 R2500,6,2500 mm,50 kg,559 kg,0.050 mm
+KUKA,KR 60-3,6,2033 mm,60 kg,665 kg,0.060 mm
+KUKA,KR 60 4 KS,6,2233 mm,60 kg,600 kg,0.060 mm
+KUKA,KR 60 HA,6,2033 mm,30 kg,665 kg,0.050 mm
+KUKA,KR 60 L16 KS,6,2952 mm,16 kg,650 kg,0.060 mm
+KUKA,KR 60 L30 HA,6,2429 mm,30 kg,679 kg,0.050 mm
+KUKA,KR 60 L45 HA,6,2230 mm,45 kg,671 kg,0.050 mm
+KUKA,KR 70 R2100,6,2101 mm,70 kg,536 kg,0.050 mm
+KUKA,KR 90 R2700 pro,6,2700 mm,90 kg,1058 kg,0.060 mm
+KUKA,KR 90 R2900 extra HA,6,2896 mm,90 kg,1121 kg,0.050 mm
+KUKA,KR 90 R3100 extra,6,3095 mm,90 kg,1092 kg,0.050 mm
+KUKA,KR 90 R3100 extra HA,6,3095 mm,90 kg,1129 kg,0.050 mm
+KUKA,KR 90 R3700 K prime,6,3700 mm,90 kg,1204 kg,0.060 mm
+KUKA,KR 100-2 P,6,3500 mm,100 kg,1245 kg,0.060 mm
+KUKA,KR 100 R3500 press,6,3501 mm,100 kg,1240 kg,0.060 mm
+KUKA,KR 120 R1800 nano,6,1803 mm,120 kg,684 kg,0.060 mm
+KUKA,KR 120 R2500 pro,6,2500 mm,120 kg,1049 kg,0.060 mm
+KUKA,KR 120 R2700-2,6,2701 mm,120 kg,1069 kg,0.050 mm
+KUKA,KR 120 R2700 HA,6,2696 mm,120 kg,1104 kg,0.050 mm
+KUKA,KR 120 R2900 extra,6,2896 mm,120 kg,1084 kg,0.060 mm
+KUKA,KR 120 R3100-2,6,3100 mm,120 kg,1105 kg,0.050 mm
+KUKA,KR 120 R3500 K prime,6,3501 mm,120 kg,1192 kg,0.060 mm
+KUKA,KR 120 R3500 press,6,3501 mm,120 kg,1240 kg,0.060 mm
+KUKA,KR 120 R3900-2 K ultra,6,3904 mm,120 kg,1280 kg,0.050 mm
+KUKA,KR 120 R3900 K ultra,6,3901 mm,120 kg,1221 kg,0.060 mm
+KUKA,KR 125-2,6,2410 mm,125 kg,975 kg,0.200 mm
+KUKA,KR 140 comp,6,2400 mm,140 kg,540 kg,0.150 mm
+KUKA,KR 150-2,6,2700 mm,150 kg,1245 kg,0.060 mm
+KUKA,KR 150 L110,6,3100 mm,110 kg,1263 kg,0.060 mm
+KUKA,KR 150 L120/2,6,2810 mm,120 kg,1140 kg,0.200 mm
+KUKA,KR 150 R2700 extra,6,2696 mm,150 kg,1068 kg,0.060 mm
+KUKA,KR 150 R3100 prime,6,3095 mm,150 kg,1114 kg,0.050 mm
+KUKA,KR 150 R3300 K prime,6,3301 mm,150 kg,1184 kg,0.060 mm
+KUKA,KR 150 R3700 K ultra,6,3701 mm,150 kg,1215 kg,0.060 mm
+KUKA,KR 160 R1570 nano,6,1573 mm,160 kg,677 kg,0.060 mm
+KUKA,KR 180 R2100 nano F exclusive,6,2100 mm,180 kg,998 kg,0.050 mm
+KUKA,KR 180 R2500 extra,6,2496 mm,180 kg,1059 kg,0.060 mm
+KUKA,KR 180 R2900 prime,6,2896 mm,180 kg,1106 kg,0.060 mm
+KUKA,KR 180 R3100 K prime,6,3101 mm,180 kg,1168 kg,0.060 mm
+KUKA,KR 180 R3500 K ultra,6,3500 mm,180 kg,1201 kg,0.060 mm
+KUKA,KR 200-2,6,2700 mm,210 kg,1267 kg,0.060 mm
+KUKA,KR 200 L140 comp,6,2800 mm,140 kg,1170 kg,0.150 mm
+KUKA,KR 210-2,6,2700 mm,210 kg,1267 kg,0.060 mm
+KUKA,KR 210-2 3100,6,3100 mm,210 kg,1267 kg,0.200 mm
+KUKA,KR 210 L100-2 K,6,3100 mm,100 kg,1285 kg,0.060 mm
+KUKA,KR 210 L150-2,6,3100 mm,150 kg,1285 kg ,0.060 mm
+KUKA,KR 210 L180-2,6,2900 mm,180 kg,1277 kg,0.060 mm
+KUKA,KR 210 R2700 extra,6,2696 mm,210 kg,1068 kg ,0.060 mm 
+KUKA,KR 210 R2700 prime,6,2696 mm,210 kg,1111 kg,0.060 mm
+KUKA,KR 210 R2900 K prime,6,2901 mm,210 kg,1180 kg,0.060 mm
+KUKA,KR 210 R3100 ultra,6,3095 mm,240 kg,1145 kg,0.060 mm
+KUKA,KR 210 R3300 K ultra,6,3301 mm,210 kg,1214 kg,0.060 mm
+KUKA,KR 240-2,6,2700 mm,240 kg,1267 kg,0.060 mm
+KUKA,KR 240 L180-2,6,3100 mm,180 kg,1277 kg,0.120 mm
+KUKA,KR 240 L210-2,6,2900 mm,210 kg,1277 kg,0.060 mm
+KUKA,KR 240 R2500 prime,6,2496 mm,240 kg,1102 kg,0.060 mm
+KUKA,KR 240 R2700 prime,6,2696 mm,240 kg,1111 kg,0.060 mm
+KUKA,KR 240 R2900-2 F,6,2900 mm,240 kg,1120 kg,0.050 mm
+KUKA,KR 240 R2900 ultra,6,2896 mm,240 kg,1145 kg,0.060 mm
+KUKA,KR 240 R3100 K ultra,6,3101 mm,240 kg,1198 kg,0.060 mm
+KUKA,KR 240 R3330,6,3326 mm,240 kg,2421 kg,0.080 mm
+KUKA,KR 250 R2700-2,6,2701 mm,250 kg,1300 kg,0.060 mm
+KUKA,KR 270 R2700 ultra,6,2696 mm,270 kg,1129 kg,0.060 mm
+KUKA,KR 270 R2900 K ultra,6,2901 mm,270 kg,1189 kg,0.060 mm
+KUKA,KR 280 R3080,6,3076 mm,280 kg,2415 kg,0.080 mm
+KUKA,KR 300 R2500 ultra,6,2496 mm,300 kg,1120 kg,0.060 mm
+KUKA,KR 340 R3330,6,2496 mm,340 kg,1120 kg,0.080 mm
+KUKA,KR 360 2,6,2826 mm,360 kg,2350 kg,0.080 mm
+KUKA,KR 360 3,6,2825 mm,240 kg,2375 kg,0.080 mm
+KUKA,KR 360 L240 3,6,3326 mm,240 kg,2411 kg,0.080 mm
+KUKA,KR 360 L280 3,6,3076 mm,280 kg,2405 kg,0.080 mm
+KUKA,KR 480 R3330 MT-F,6,3326 mm,480 kg,2475 kg,0.080 mm
+KUKA,KR 480 R3330 MT-F K,6,3326 mm,480 kg,2475 kg,0.080 mm
+KUKA,KR 500 3,6,2825 mm,500 kg,2375 kg,0.080 mm
+KUKA,KR 500 L340-2,6,3326 mm,340 kg,2385 kg,0.080 mm
+KUKA,KR 500 L340-3,6,3326 mm,340 kg,2411 kg,0.080 mm
+KUKA,KR 500 L420-2,6,3076 mm,420 kg,2405 kg,0.080 mm
+KUKA,KR 500 L420 3,6,3076 mm,420 kg,2405 kg,0.080 mm
+KUKA,KR 500 R2830,6,2826 mm,500 kg,2385 kg,0.080 mm
+KUKA,KR 510 R3080,6,3076 mm,510 kg,2375 kg,0.080 mm
+KUKA,KR 600 R2830,6,2830 mm,600 kg,2650 kg,0.080 mm
+KUKA,KR 1000 L750 titan,6,3202 mm,750 kg,4740 kg,0.200 mm
+KUKA,KR 1000 titan,6,3202 mm,1000 kg,4690 kg,0.200 mm
+Yaskawa Motoman,AR2010,6,2010 mm,6 kg,260 kg,0.080 mm
+Yaskawa Motoman,AR3120,6,3120 mm,20 kg,560 kg,0.070 mm
+Yaskawa Motoman,DX1350D,6,1355 mm,35 kg,275 kg,0.060 mm
+Yaskawa Motoman,EPX2050,6,2054 mm,15 kg,540 kg,0.500 mm
+Yaskawa Motoman,EPX2800R,6,2779 mm,20 kg,650 kg,0.500 mm
+Yaskawa Motoman,ES165D,6,2651 mm,165 kg,1100 kg,0.200 mm
+Yaskawa Motoman,ES165D-100,6,3010 mm,100 kg,1120 kg,0.200 mm
+Yaskawa Motoman,ES165RD,6,3140 mm,165 kg,1540 kg,0.200 mm
+Yaskawa Motoman,ES200D,6,2651 mm,200 kg,1130 kg,0.200 mm
+Yaskawa Motoman,ES200N,6,2651 mm,200 kg,1230 kg,0.200 mm
+Yaskawa Motoman,GP7,6,927 mm,7 kg,34 kg,0.030 mm
+Yaskawa Motoman,GP8,6,727 mm,8 kg,32 kg,0.020 mm
+Yaskawa Motoman,GP12,6,1440 mm,12 kg,150 kg,0.060 mm
+Yaskawa Motoman,GP20HL,6,3124 mm,20 kg,560 kg,0.070 mm
+Yaskawa Motoman,GP25,6,1730 mm,25 kg,250 kg,0.060 mm
+Yaskawa Motoman,GP25-12,6,2010 mm,12 kg,260 kg,0.030 mm
+Yaskawa Motoman,GP50,6,2061 mm,50 kg,570 kg,0.070 mm
+Yaskawa Motoman,GP88,6,2236 mm,88 kg,630 kg,0.030 mm
+Yaskawa Motoman,GP110,6,2236 mm,110 kg,660 kg,0.030 mm
+Yaskawa Motoman,GP180,6,2702 mm,180 kg,1020 kg,0.200 mm
+Yaskawa Motoman,HC10,6,1200 mm,10 kg,47 kg,0.100 mm
+Yaskawa Motoman,HC10DTP,6,1200 mm,10 kg,58 kg,0.050 mm
+Yaskawa Motoman,HC20DTP,6,1700 mm,20 kg,140 kg,0.050 mm
+Yaskawa Motoman,HP6,6,1378 mm,6 kg,130 kg,0.080 mm
+Yaskawa Motoman,HP20D,6,1717 mm,20 kg,268 kg,0.060 mm
+Yaskawa Motoman,HP20D-6,6,1915 mm,6 kg,273 kg,0.060 mm
+Yaskawa Motoman,HP20RD,6,2017 mm,20 kg,293 kg,0.060 mm
+Yaskawa Motoman,MA1400,6,1434 mm,3 kg,130 kg,0.080 mm
+Yaskawa Motoman,MA1440,6,1440 mm,6 kg,130 kg,0.080 mm
+Yaskawa Motoman,MA1800,6,1807 mm,15 kg,380 kg,0.080 mm
+Yaskawa Motoman,MA2010,6,1904 mm,6 kg,280 kg,0.080 mm
+Yaskawa Motoman,MA2010,6,2010 mm,6 kg,280 kg,0.080 mm
+Yaskawa Motoman,MA3100,6,3121 mm,3 kg,501 kg,0.150 mm
+Yaskawa Motoman,MH3F,6,531 mm,3 kg,27 kg,0.030 mm
+Yaskawa Motoman,MH5,6,706 mm,5 kg,27 kg,0.020 mm
+Yaskawa Motoman,MH5F,6,706 mm,5 kg,27 kg,0.020 mm
+Yaskawa Motoman,MH5LF,6,895 mm,5 kg,29 kg,0.030 mm
+Yaskawa Motoman,MH5S,6,706 mm,5 kg,27 kg,0.020 mm
+Yaskawa Motoman,MH6,6,1422 mm,6 kg,130 kg,0.080 mm
+Yaskawa Motoman,MH6S,6,997 mm,6 kg,120 kg,0.080 mm
+Yaskawa Motoman,MH6S-10,6,997 mm,10 kg,120 kg,0.080 mm
+Yaskawa Motoman,MH12,6,1440 mm,12 kg,130 kg,0.080 mm
+Yaskawa Motoman,MH24,6,1730 mm,24 kg,268 kg,0.060 mm
+Yaskawa Motoman,MH50,6,2061 mm,50 kg,550 kg,0.070 mm
+Yaskawa Motoman,MH50-20,6,3106 mm,20 kg,495 kg,0.150 mm
+Yaskawa Motoman,MH50-35,6,2538 mm,35 kg,570 kg,0.150 mm
+Yaskawa Motoman,MH80,6,2061 mm,80 kg,550 kg,0.070 mm
+Yaskawa Motoman,MH165,6,2651 mm,165 kg,1130 kg,0.200 mm
+Yaskawa Motoman,MH180,6,2702 mm,180 kg,970 kg,0.200 mm
+Yaskawa Motoman,MH180-120,6,3058 mm,120 kg,1010 kg,0.200 mm
+Yaskawa Motoman,MH200,6,2651 mm,200 kg,1130 kg,0.200 mm
+Yaskawa Motoman,MH280,6,2446 mm,280 kg,1120 kg,0.200 mm
+Yaskawa Motoman,MH600,6,2942 mm,600 kg,3050 kg,0.300 mm
+Yaskawa Motoman,MotoMini,6,350 mm,0.5 kg,7 kg,0.020 mm
+Yaskawa Motoman,MPK2,6,900 mm,3 kg,130 kg,0.080 mm
+Yaskawa Motoman,MPX1150,6,727 mm,5 kg,57 kg,0.020 mm
+Yaskawa Motoman,MPX2600,6,2000 mm,15 kg,485 kg,0.200 mm
+Yaskawa Motoman,MPX3500,6,2000 mm,15 kg,485 kg,0.200 mm
+Yaskawa Motoman,MS80W II,6,2236 mm,80 kg,550 kg,0.070 mm
+Yaskawa Motoman,MS120,6,1750 mm,120 kg,950 kg,0.200 mm
+Yaskawa Motoman,SV3X,6,677 mm,3 kg,30 kg,0.030 mm
+Yaskawa Motoman,UP6,6,1373 mm,6 kg,130 kg,0.080 mm
+Yaskawa Motoman,UP20,6,1658 mm,20 kg,280 kg,0.060 mm
+Yaskawa Motoman,UP20M,6,3106 mm,20 kg,495 kg,0.150 mm
+Yaskawa Motoman,UP50N,6,2046 mm,50 kg,550 kg,0.070 mm
+Yaskawa Motoman,UP200,6,2446 mm,200 kg,1350 kg,0.200 mm
+Yaskawa Motoman,UP350,6,2542 mm,350 kg,1350 kg,0.500 mm
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
