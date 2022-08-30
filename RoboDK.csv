@@ -1,36 +1,36 @@
-﻿Brand ,Model ,Axes ,Reach ,Payload ,Weight ,Repeatability 
-Fanuc ,LR Mate 200iC/5H ,5,704 mm,5 kg,28 kg,0.020 mm
+Brand ,Model ,Axes ,Reach ,Payload ,Weight ,Repeatability 
+Fanuc ,LR Mate 200iC/5H,5,704 mm,5 kg,28 kg,0.020 mm
 Kawasaki,RD80N,5,2100 mm,80 kg,555 kg,0.070 mm
-KUKA,KR 1000 L950 titan PA,5,3601 mm ,950 kg,4740 kg,0.200 mm
+KUKA,KR 1000 L950 titan PA,5,3601 mm,950 kg,4740 kg,0.200 mm
 KUKA,KR 1000 L1300 titan PA,5,3202 mm,1300 kg,4690 kg,0.200 mm
 KUKA,youBot,5,901 mm,10 kg,52 kg,0.030 mm
 Mitsubishi,RV-2AJ,5,410 mm,2.0 kg,17 kg,0.020 mm
-Yaskawa Motoman,MPL80,5,2061 mm ,80 kg,550 kg,0.070 mm
+Yaskawa Motoman,MPL80,5,2061 mm,80 kg,550 kg,0.070 mm
 Nachi,MC500P,5,3756 mm,500 kg,3000 kg,0.300 mm
 Staubli,RX170HSM,5,1720 mm,60 kg,726 kg,0.040 mm
-OTC Daihen,FD-NV6Ls,7,2006 mm,6 kg,350 kg ,0.080 mm 
-OTC Daihen,FD-V6Ls,7,2006 mm,6 kg,316 kg ,0.080 mm 
+OTC Daihen,FD-NV6Ls,7,2006 mm,6 kg,350 kg,0.080 mm
+OTC Daihen,FD-V6Ls,7,2006 mm,6 kg,316 kg,0.080 mm
 Franka,Emika Panda,7,850 mm,3 kg,18 kg,0.100 mm
 Kinova,Gen3,7,735.1 mm,14 kg,30 kg,0.150 mm
-KUKA,LBR iiwa 7 R800,7,800 mm,7 kg ,24 kg ,0.100 mm
-KUKA,LBR iiwa 7 R800 MF,7,800 mm,7 kg ,24 kg ,0.100 mm
+KUKA,LBR iiwa 7 R800,7,800 mm,7 kg,24 kg,0.100 mm
+KUKA,LBR iiwa 7 R800 MF,7,800 mm,7 kg,24 kg,0.100 mm
 KUKA,LBR iiwa 14 R820,7,820 mm,14 kg,30 kg,0.100 mm
 Yaskawa Motoman,CSDA10F,7,720 mm,10 kg,60 kg,0.100 mm
-Yaskawa Motoman,SIA10D,7,720 mm,10 kg,60 kg ,0.100 mm
-Yaskawa Motoman,SIA20D,7,1630 mm,50 kg,640 kg ,0.100 mm
-Siasun,SCR3,7,600 mm,3 kg,22 kg,0.020 mm
-Siasun,SCR5 ,7,800 mm,5 kg,34 kg,0.020 mm
+Yaskawa Motoman,SIA10D,7,720 mm,10 kg,60 kg,0.100 mm
+Yaskawa Motoman,SIA20D,7,1630 mm,50 kg,640 kg,0.100 mm
+Siasun,SCR 3.00,7,600 mm,3 kg,22 kg,0.020 mm
+Siasun,SCR 5.00,7,800 mm,5 kg,34 kg,0.020 mm
 ABB,IRB 14050,7,559 mm,0.5 kg,38 kg,0.020 mm
 ABB,YuMi IRB 14000 Dual-Arm,7,,0.5 kg,,0.020 mm
 Yaskawa Motoman,SDA10F Dual-Arm,7,,10 kg,,0.100 mm
-ABB,CRB 15000,6,950 mm,5 kg,27 kg ,0.050 mm
-ABB,IRB 120-3/0.6,6,580 mm,3 kg ,25 kg ,0.010 mm
+ABB,CRB 15000,6,950 mm,5 kg,27 kg,0.050 mm
+ABB,IRB 120-3/0.6,6,580 mm,3 kg,25 kg,0.010 mm
 ABB,IRB 140-6/0.8,6,810 mm,6 kg,98 kg,0.030 mm
 ABB,IRB 1100-4/0.58,6,580 mm,4 kg,21 kg,0.010 mm
 ABB,IRB 1100-4/0.475,6,475 mm,4 kg,21 kg,0.010 mm
 ABB,IRB 1200-5/0.9,6,901 mm,5 kg,52 kg,0.020 mm
 ABB,IRB 1200-7/0.7,6,703 mm,7 kg,54 kg,0.020 mm
-ABB,IRB 1300-7/1.4,6,1400 mm,7 kg ,79 kg,0.020 mm
+ABB,IRB 1300-7/1.4,6,1400 mm,7 kg,79 kg,0.020 mm
 ABB,IRB 1300-10/1.15,6,1150 mm,10 kg,78 kg,0.023 mm
 ABB,IRB 1520ID,6,1450 mm,5 kg,170 kg,0.050 mm
 ABB,IRB 1600-6/1.2,6,1200 mm,6 kg,250 kg,0.050 mm
@@ -260,16 +260,16 @@ GSK,RB20,6,1595 mm,20 kg,290 kg,0.050 mm
 GSK,RB50,6,1950 mm,50 kg,300 kg,0.050 mm
 GSK,RB165,6,2463 mm,165 kg,1400 kg,0.200 mm
 Han's,E03,6,590 mm,3 kg,18 kg,0.030 mm
-Han's,E05 ,6,800 mm,5 kg,25 kg,0.030 mm
+Han's,E05,6,800 mm,5 kg,25 kg,0.030 mm
 Han's,E05-L,6,950 mm,4 kg,26 kg,0.030 mm
-Han's,E10 ,6,1000 mm ,10 kg,43 kg,0.050 mm
+Han's,E10,6,1000 mm,10 kg,43 kg,0.050 mm
 Han's,E10-L,6,1300 mm,8 kg,45 kg,0.050 mm
-Han's,E15 ,6,1300 mm,15 kg,60 kg,0.100 mm
-Hanwha,HCR-3,6,530 mm,3 kg ,13 kg,0.100 mm
-Hanwha,HCR-5 ,6,915 mm,5 kg ,20 kg ,0.100 mm
-Hanwha,HCR-12,6,1300 mm,12 kg ,51 kg ,0.100 mm
+Han's,E15,6,1300 mm,15 kg,60 kg,0.100 mm
+Hanwha,HCR-3,6,530 mm,3 kg,13 kg,0.100 mm
+Hanwha,HCR-5,6,915 mm,5 kg,20 kg,0.100 mm
+Hanwha,HCR-12,6,1300 mm,12 kg,51 kg,0.100 mm
 HIWIN,RA605-710-GB,6,710 mm,5 kg,40 kg,0.020 mm
-HIWIN,RA610-1355-GA,6,1355 mm,12 kg ,143 kg,0.050 mm
+HIWIN,RA610-1355-GA,6,1355 mm,12 kg,143 kg,0.050 mm
 HIWIN,RA610-1476-GA,6,1476 mm,10 kg,147 kg,0.050 mm
 HIWIN,RA610-1672-GA,6,1672 mm,10 kg,150 kg,0.060 mm
 HIWIN,RA610-1869-GA,6,1869 mm,7 kg,152 kg,0.060 mm
@@ -283,16 +283,16 @@ Hyundai Robotics,HH012,6,1425 mm,12 kg,145 kg,0.030 mm
 Hyundai Robotics,HH020,6,1742 mm,20 kg,225 kg,0.080 mm
 Hyundai Robotics,HH020L,6,2239 mm,20 kg,645 kg,0.080 mm
 Hyundai Robotics,HH050,6,2239 mm,50 kg,645 kg,0.100 mm
-Hyundai Robotics,YL012,6,1305 mm ,12 kg ,,0.100 mm
-Hyundai Robotics,YL015,6,963 mm,15 kg,42 kg ,0.100 mm
-Hyundai Robotics,IIMT-CA-05,6,900 mm,5 kg ,20 kg ,0.030 mm
+Hyundai Robotics,YL012,6,1305 mm,12 kg,,0.100 mm
+Hyundai Robotics,YL015,6,963 mm,15 kg,42 kg,0.100 mm
+Hyundai Robotics,IIMT-CA-05,6,900 mm,5 kg,20 kg,0.030 mm
 Hyundai Robotics,IIMT-CR-03,6,600 mm,3 kg,13 kg,0.030 mm
 Hyundai Robotics,IIMT-CR-10,6,1300 mm,10 kg,32 kg,0.050 mm
 Hyundai Robotics,IIMT-CR-16,6,1000 mm,16 kg,31 kg,0.050 mm
-Jaka ,MiniCobo,6,576 mm,1.0 kg ,9 kg ,0.100 mm
-Jaka ,Zu3 ,6,498 mm,3 kg ,14 kg ,0.030 mm
-Jaka ,Zu5  ,6,954 mm,5 kg ,12 kg ,0.030 mm
-Jaka ,Zu7 ,6,814 mm,7 kg,22 kg,0.030 mm
+Jaka ,MiniCobo,6,576 mm,1.0 kg,9 kg,0.100 mm
+Jaka ,Zu3,6,498 mm,3 kg,14 kg,0.030 mm
+Jaka ,Zu5,6,954 mm,5 kg,12 kg,0.030 mm
+Jaka ,Zu7,6,814 mm,7 kg,22 kg,0.030 mm
 Jaka ,Zu7 V2.6,6,954 mm,5 kg,23 kg,0.030 mm
 Jaka ,Zu7 V2.7,6,950 mm,5 kg,23 kg,0.030 mm
 Jaka ,Zu12,6,1327 mm,12 kg,41 kg,0.030 mm
@@ -398,7 +398,7 @@ Nachi,MC50,6,2050 mm,50 kg,640 kg,0.070 mm
 Nachi,MZ01-01,6,350 mm,1.0 kg,10 kg,0.020 mm
 Nachi,MZ03EL,6,1102 mm,4 kg,39 kg,0.030 mm
 Nachi,MZ04-01,6,541 mm,4 kg,26 kg,0.020 mm
-Nachi,MZ04E-01,6,541 mm,4 kg,25 kg ,0.020 mm
+Nachi,MZ04E-01,6,541 mm,4 kg,25 kg,0.020 mm
 Nachi,MZ07,6,723 mm,7 kg,30 kg,0.020 mm
 Nachi,MZ07L,6,912 mm,7 kg,32 kg,0.030 mm
 Nachi,MZ12-01,6,1454 mm,12 kg,150 kg,0.040 mm
@@ -420,9 +420,9 @@ Omron,TM12X,6,1300 mm,12 kg,33 kg,0.100 mm
 Omron,TM14,6,1100 mm,14 kg,33 kg,0.100 mm
 Omron,TM14X,6,1100 mm,14 kg,33 kg,0.100 mm
 Panasonic,TA-1000,6,1068 mm,6 kg,145 kg,0.100 mm
-Panasonic,TA-1400,6,1374 mm ,6 kg ,161 kg ,0.100 mm
+Panasonic,TA-1400,6,1374 mm,6 kg,161 kg,0.100 mm
 Panasonic,TA-1600,6,1598 mm,8 kg,203 kg,0.100 mm
-Panasonic,TM-1400,6,1437 mm,6 kg ,170 kg ,0.080 mm
+Panasonic,TM-1400,6,1437 mm,6 kg,170 kg,0.080 mm
 Precise,PAVP6,6,432 mm,2.0 kg,28 kg,0.020 mm
 PUMA,560,6,864 mm,3 kg,55 kg,0.100 mm
 QJAR,QJR20-1600,6,1671 mm,20 kg,270 kg,0.100 mm
@@ -432,8 +432,8 @@ Rainbow Robotics,RB5-850A,6,850 mm,5 kg,21 kg,0.100 mm
 Rainbow Robotics,RB10-1300,6,1300 mm,10 kg,32 kg,0.100 mm
 Reis,RV10-6,6,1080 mm,6 kg,235 kg,0.050 mm
 Reis,RV130-60,6,2800 mm,60 kg,1340 kg,0.150 mm
-RoboDK,RDK-1100,6,1100 mm,10 kg ,,
-RoboDK,RDK-1440,6,1440 mm,10 kg ,,
+RoboDK,RDK-1100,6,1100 mm,10 kg,,
+RoboDK,RDK-1440,6,1440 mm,10 kg,,
 Robostar,RA004,6,510 mm,4 kg,27 kg,0.020 mm
 Robostar,RA007,6,930 mm,7 kg,38 kg,0.030 mm
 Robostar,RA012,6,930 mm,12 kg,27 kg,0.060 mm
@@ -484,9 +484,9 @@ Staubli,TX200L,6,2400 mm,60 kg,1020 kg,0.100 mm
 Staubli,TX200PV,6,2000 mm,100 kg,1000 kg,0.060 mm
 Staubli,TX200PVL,6,2400 mm,60 kg,1020 kg,0.100 mm
 Techman Robot,TM5-700,6,700 mm,6 kg,25 kg,0.100 mm
-Techman Robot,TM5-900,6,900 mm,4 kg,30 kg ,0.100 mm
+Techman Robot,TM5-900,6,900 mm,4 kg,30 kg,0.100 mm
 Techman Robot,TM5X-700,6,700 mm,6 kg,25 kg,0.100 mm
-Techman Robot,TM5X-900,6,900 mm,4 kg,30 kg ,0.100 mm
+Techman Robot,TM5X-900,6,900 mm,4 kg,30 kg,0.100 mm
 Techman Robot,TM12,6,1300 mm,12 kg,33 kg,0.100 mm
 Techman Robot,TM12X,6,1300 mm,12 kg,33 kg,0.100 mm
 Techman Robot,TM14,6,1100 mm,14 kg,33 kg,0.100 mm
@@ -502,8 +502,8 @@ Universal Robots,UR3e,6,500 mm,3 kg,11 kg,0.030 mm
 Universal Robots,UR5,6,850 mm,5 kg,18 kg,0.100 mm
 Universal Robots,UR5e,6,850 mm,5 kg,18 kg,0.030 mm
 Universal Robots,UR10,6,1300 mm,10 kg,29 kg,0.100 mm
-Universal Robots,UR10e,6,1300 mm,10 kg ,29 kg ,0.050 mm
-Universal Robots,UR16e,6,900 mm ,16 kg ,33 lg ,0.050 mm 
+Universal Robots,UR10e,6,1300 mm,10 kg,29 kg,0.050 mm
+Universal Robots,UR16e,6,900 mm,16 kg,33 lg,0.050 mm
 KUKA,KR 3,6,635 mm,3 kg,53 kg,0.050 mm
 KUKA,KR 3 R540,6,541 mm,3 kg,26 kg,0.020 mm
 KUKA,KR 4 R600,6,601 mm,5 kg,24 kg,0.015 mm
@@ -591,9 +591,9 @@ KUKA,KR 200 L140 comp,6,2800 mm,140 kg,1170 kg,0.150 mm
 KUKA,KR 210-2,6,2700 mm,210 kg,1267 kg,0.060 mm
 KUKA,KR 210-2 3100,6,3100 mm,210 kg,1267 kg,0.200 mm
 KUKA,KR 210 L100-2 K,6,3100 mm,100 kg,1285 kg,0.060 mm
-KUKA,KR 210 L150-2,6,3100 mm,150 kg,1285 kg ,0.060 mm
+KUKA,KR 210 L150-2,6,3100 mm,150 kg,1285 kg,0.060 mm
 KUKA,KR 210 L180-2,6,2900 mm,180 kg,1277 kg,0.060 mm
-KUKA,KR 210 R2700 extra,6,2696 mm,210 kg,1068 kg ,0.060 mm 
+KUKA,KR 210 R2700 extra,6,2696 mm,210 kg,1068 kg,0.060 mm
 KUKA,KR 210 R2700 prime,6,2696 mm,210 kg,1111 kg,0.060 mm
 KUKA,KR 210 R2900 K prime,6,2901 mm,210 kg,1180 kg,0.060 mm
 KUKA,KR 210 R3100 ultra,6,3095 mm,240 kg,1145 kg,0.060 mm
@@ -696,8 +696,3 @@ Yaskawa Motoman,UP20M,6,3106 mm,20 kg,495 kg,0.150 mm
 Yaskawa Motoman,UP50N,6,2046 mm,50 kg,550 kg,0.070 mm
 Yaskawa Motoman,UP200,6,2446 mm,200 kg,1350 kg,0.200 mm
 Yaskawa Motoman,UP350,6,2542 mm,350 kg,1350 kg,0.500 mm
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
