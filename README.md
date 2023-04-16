@@ -36,29 +36,29 @@ These are specifications for various industrial robots, including the model name
 
 Each of these brands has its own strengths and areas of expertise, and the robots they produce vary in terms of size, payload capacity, precision, and other factors.
 <br>
-Fanuc: A Japanese robotics company that specializes in producing industrial robots, CNC systems, and factory automation systems.
+- Fanuc: A Japanese robotics company that specializes in producing industrial robots, CNC systems, and factory automation systems.
 <br>
-Kawasaki: A Japanese multinational corporation that produces a wide range of products, including industrial robots, motorcycles, and aerospace equipment.
+- Kawasaki: A Japanese multinational corporation that produces a wide range of products, including industrial robots, motorcycles, and aerospace equipment.
 <br>
-KUKA: A German manufacturer of industrial robots and automation systems.
+- KUKA: A German manufacturer of industrial robots and automation systems.
 <br>
-Mitsubishi: A Japanese multinational conglomerate that produces a wide range of products, including industrial robots, heavy electrical equipment, and automotive components.
+- Mitsubishi: A Japanese multinational conglomerate that produces a wide range of products, including industrial robots, heavy electrical equipment, and automotive components.
 <br>
-Yaskawa Motoman: A subsidiary of the Japanese corporation Yaskawa Electric Corporation, which produces industrial robots, servo motors, and machine controllers.
+- Yaskawa Motoman: A subsidiary of the Japanese corporation Yaskawa Electric Corporation, which produces industrial robots, servo motors, and machine controllers.
 <br>
-Nachi: A Japanese manufacturer of industrial robots, machine tools, and bearings.
+- Nachi: A Japanese manufacturer of industrial robots, machine tools, and bearings.
 <br>
-Staubli: A Swiss manufacturer of industrial robots and automation solutions for a wide range of industries.
+- Staubli: A Swiss manufacturer of industrial robots and automation solutions for a wide range of industries.
 <br>
-OTC Daihen: A Japanese manufacturer of welding robots and automation systems.
+- OTC Daihen: A Japanese manufacturer of welding robots and automation systems.
 <br>
-Franka Emika: A German robotics company that produces lightweight collaborative robots.
+- Franka Emika: A German robotics company that produces lightweight collaborative robots.
 <br>
-Kinova: A Canadian company that produces lightweight robotic arms for applications in healthcare, research, and education.
+- Kinova: A Canadian company that produces lightweight robotic arms for applications in healthcare, research, and education.
 <br>
-Siasun: A Chinese manufacturer of industrial robots and automation equipment.
+- Siasun: A Chinese manufacturer of industrial robots and automation equipment.
 <br>
-ABB: A Swiss-Swedish multinational corporation that produces a wide range of products, including industrial robots, power grids, and electrification products.
+- ABB: A Swiss-Swedish multinational corporation that produces a wide range of products, including industrial robots, power grids, and electrification products.
 <br>
 
 ---
