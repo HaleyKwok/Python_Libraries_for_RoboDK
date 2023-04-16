@@ -22,6 +22,8 @@ These are specifications for various industrial robots, including the model name
 
 ## 📝 Brief Introduction to Robotics Company
 
+Each of these brands has its own strengths and areas of expertise, and the robots they produce vary in terms of size, payload capacity, precision, and other factors.
+<br>
 AUBO - A Chinese manufacturer of collaborative robots (cobots) that are designed to work alongside humans.
 <br>
 Automata - A UK-based company that produces a low-cost collaborative robot called Eva, which is designed to be user-friendly and easy to set up.
@@ -38,20 +40,17 @@ CRS - A Taiwanese company that produces a range of industrial robots, including 
 <br>
 Denso - A Japanese manufacturer of industrial robots that specializes in small, high-precision robots for assembly, inspection, and other applications.
 <br>
-Each of these brands has its own strengths and areas of expertise, and the robots they produce vary in terms of size, payload capacity, precision, and other factors.
+
 
 ---
 ## 📋 Example: Using the RoboDK dataset to do the clustering
 
 [Clustering](https://github.com/HaleyKwok/Python_Libraries_for_RoboDK/blob/main/Clustering.ipynb)
 
-<div align="center"><img src="https://github.com/HaleyKwok/Python_Libraries_for_RoboDK/blob/main/Elbow.png" align="center" />
+<div align="center"><img src="https://github.com/HaleyKwok/Python_Libraries_for_RoboDK/blob/main/Clustering.png" align="center" />
 </div> 
 <br>
 
-<div align="center"><img src="https://github.com/HaleyKwok/Python_Libraries_for_RoboDK/blob/main/Cluster.png" align="center" />
-</div> 
-<br>
 
 > This code performs k-means clustering on a dataset X with two features, where n_clusters = 3 is the number of clusters to be formed. The init parameter is set to 'k-means++', which means the initial cluster centers will be selected in a smart way to speed up convergence. The random_state parameter is set to 50 to ensure reproducibility of the results. The fit_predict method is called on the KMeans object kmeans to perform clustering on the dataset and obtain the cluster assignments for each data point in X. The resulting cluster assignments are stored in the y_predict variable. The code then visualizes the clusters by plotting the data points of each cluster in a scatter plot. The data points belonging to each cluster are color-coded differently. The centroids of the clusters are also plotted as yellow circles with a larger size. The resulting plot is titled "Clusters of RoboDK" and the x and y axis labels indicate the features "Reach (mm)" and "Repeatability (mm)" respectively. Finally, the legend is shown to indicate the meaning of different colors in the plot.
 
