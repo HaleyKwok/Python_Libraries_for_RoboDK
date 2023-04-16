@@ -2,8 +2,9 @@
 
 
 ## 📍 Mission
-Our mission is to gain understanding of RoboDK robot parameters patterns. This repo provides insights on 5 DOF/6 DOF/7 DOF Collaborative and Industrial Robotics listed in the [RoboDK Libraries](https://robodk.com/library). 
+Our mission is to gain understanding of RoboDK robot parameters patterns. This repo provides collected dataset of 5 DOF/6 DOF/7 DOF Collaborative and Industrial Robotics listed in the [RoboDK Libraries](https://robodk.com/library). 
 
+Dataset can provide insights to:
 - Improve robot control: This can help improve the accuracy and efficiency of simulations, ultimately leading to better results.
 - Training deep learning models: The data collected from RoboDK simulations can be used to train deep learning models that can be used for tasks such as object detection, pose estimation, and motion planning.
 - Develop new models: Data collected from RoboDK simulations can be used to develop new deep learning models that can be used for tasks such as robot grasping, collision avoidance, and visual navigation.
@@ -14,7 +15,7 @@ Our mission is to gain understanding of RoboDK robot parameters patterns. This r
 
 ## 🔆 Introduction
 
-The list provided [RoboDK.xlsx](https://github.com/HaleyKwok/Python_Libraries_for_RoboDK/blob/main/RoboDK.xlsx) and [RoboDK.csv](https://github.com/HaleyKwok/Python_Libraries_for_RoboDK/blob/main/RoboDK.csv) contains several industrial robotic arms from various manufacturers, along with some basic technical specifications for each. Some of the manufacturers included in the list are Omron, Nachi, Niryo, Panasonic, Precise, PUMA, QJAR, Rainbow Robotics, Reis, RoboDK, Robostar, Rokae, Siasun, and Staubli.
+The list [RoboDK.xlsx](https://github.com/HaleyKwok/Python_Libraries_for_RoboDK/blob/main/RoboDK.xlsx) and [RoboDK.csv](https://github.com/HaleyKwok/Python_Libraries_for_RoboDK/blob/main/RoboDK.csv) provided contains several industrial robotic arms from various manufacturers, along with some basic technical specifications for each. Some of the manufacturers included in the list are Omron, Nachi, Niryo, Panasonic, Precise, PUMA, QJAR, Rainbow Robotics, Reis, RoboDK, Robostar, Rokae, Siasun, and Staubli.
 
 These are specifications for various industrial robots, including the model name, number of axes, reach (in mm), payload capacity (in kg), weight (in kg), and repeatability (in mm), which can be used to determine which robot model is best suited for a particular task based on the payload, reach, and other requirements.
 
@@ -24,7 +25,7 @@ These are specifications for various industrial robots, including the model name
 
 ---
 
-## 📝 Brief Introduction to Robotics Company
+## 📝 Background information on industrial robotics companies
 
 Each of these brands has its own strengths and areas of expertise, and the robots they produce vary in terms of size, payload capacity, precision, and other factors.
 <br>
@@ -63,7 +64,7 @@ Clustering Example: [Clustering](https://github.com/HaleyKwok/Python_Libraries_f
 <br>
 
 
-> This code performs k-means clustering on a dataset `X` with two features, where `n_clusters = 3` is the number of clusters to be formed. The `init` parameter is set to `k-means++`, which means the initial cluster centers will be selected in a smart way to speed up convergence. The `random_state` parameter is set to `50` to ensure reproducibility of the results. The `fit_predict` method is called on the KMeans object kmeans to perform clustering on the dataset and obtain the cluster assignments for each data point in X. The resulting cluster assignments are stored in the `y_predict` variable. The code then visualizes the clusters by plotting the data points of each cluster in a scatter plot. The data points belonging to each cluster are color-coded differently. The centroids of the clusters are also plotted as yellow circles with a larger size. The resulting plot is titled "Clusters of RoboDK" and the x and y axis labels indicate the features "Reach (mm)" and "Repeatability (mm)" respectively. Finally, the legend is shown to indicate the meaning of different colors in the plot.
+> This code performs k-means clustering on a dataset `X` with two features, where `n_clusters = 3` is the number of clusters to be formed. The `init` parameter is set to `k-means++`, which means the initial cluster centers will be selected in a smart way to speed up convergence. The `random_state` parameter is set to `50` to ensure reproducibility of the results. The `fit_predict` method is called on the KMeans object kmeans to perform clustering on the dataset and obtain the cluster assignments for each data point in `X`. The resulting cluster assignments are stored in the `y_predict` variable. The code then visualizes the clusters by plotting the data points of each cluster in a scatter plot. The data points belonging to each cluster are color-coded differently. The centroids of the clusters are also plotted as yellow circles with a larger size. The resulting plot is titled `"Clusters of RoboDK"` and the `x` and `y` axis labels indicate the features "Reach (mm)" and "Repeatability (mm)" respectively. Finally, the legend is shown to indicate the meaning of different colors in the plot.
 
 ---
 
