@@ -11,6 +11,11 @@ Dataset can provide insights to:
 - Validate models: To use simulation data to compare the performance of different models and determine which model provides the best results.
 - Use Flask, Postman and Python (pickle package) to pass elements generated from the model and publish them on a web page.
 
+
+<div align="center"><img src="https://github.com/HaleyKwok/Python_Libraries_for_RoboDK/blob/main/RoboDK.png" align="center" />
+</div> 
+<br>
+
 --- 
 
 ## 🔆 Introduction
@@ -19,9 +24,11 @@ The list [RoboDK.xlsx](https://github.com/HaleyKwok/Python_Libraries_for_RoboDK/
 
 These are specifications for various industrial robots, including the model name, number of axes, reach (in mm), payload capacity (in kg), weight (in kg), and repeatability (in mm), which can be used to determine which robot model is best suited for a particular task based on the payload, reach, and other requirements.
 
-<div align="center"><img src="https://github.com/HaleyKwok/Python_Libraries_for_RoboDK/blob/main/RoboDK.png" align="center" />
+
+<div align="center"><img src="https://github.com/HaleyKwok/Python_Libraries_for_RoboDK/blob/main/RoboDKdataset.png" align="center" />
 </div> 
 <br>
+
 
 ---
 
