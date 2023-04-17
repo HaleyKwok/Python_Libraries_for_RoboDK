@@ -83,6 +83,8 @@ We develop this repository for Assignment purposes, so it can only be used for p
 ## 📭 Contact
 If your have any comments or questions, feel free to contact kwokhinchi@gmail.com 
 
+---
 
+Copyright © [Haley Kwok](https://github.com/HaleyKwok). All rights reserved.
 
 
